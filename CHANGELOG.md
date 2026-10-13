@@ -1,3 +1,11 @@
+## v1.9.1
+
+### Enhancements
+
+- **Fix**: In-app chat now continues to work on iOS and iPadOS browsers when push notifications are unavailable.
+
+---
+
 ## v1.9.0
 
 ### New Features
